@@ -1,1 +1,4 @@
-console.log (0+5)
+n1=5
+n2=5
+suma=n1+n2
+console.log ("la suma es:", suma)
