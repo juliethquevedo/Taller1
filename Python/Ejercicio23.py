@@ -3,4 +3,4 @@ horas=float(input("Horas extra:"))
 valorHora=float(input("Valor Hora:"))
 extra=horas*(1.5*valorHora)
 total=salario+extra
-print("Salario total:",total)
+print("Salario total:", total)

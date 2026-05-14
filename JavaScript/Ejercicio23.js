@@ -1,6 +1,6 @@
-salario=1000000
-horas=5
-valorHora=12000
-extra=horas*(1.5*valorHora)
+salario=1700000
+horas=3
+valorhora=7000
+extra=horas*(1.5*valorhora)
 total=salario+extra
-console.log("Salario total:",total)
+console.log("Salario total:"+ total)
